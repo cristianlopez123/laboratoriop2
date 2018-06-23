@@ -1,0 +1,12 @@
+git clone URL
+git init//inicializa la carpeta para q 
+git add 
+git commit -m" comentario"
+git fetch origin master
+git push origin master// envia cambio a githut
+git pull origin master
+git log 
+git show ///ve cambios 
+git rm 
+
+
